@@ -1,15 +1,21 @@
 --- 
 cursor_positions: 
-  - :path: config/routes.rb
-    :cursor_offset: 55
-    :timestamp: 2012-01-24 12:58:54.828000 -08:00
-  - :path: app/controllers/users_controller.rb
-    :cursor_offset: 228
-    :timestamp: 2012-01-24 12:58:54.894000 -08:00
-  - :path: app/models/user.rb
-    :cursor_offset: 0
-    :timestamp: 2012-01-24 12:58:54.522000 -08:00
   - :path: app/views/users/index.html.erb
     :cursor_offset: 0
     :timestamp: 2012-01-24 12:58:55.153000 -08:00
+  - :path: app/controllers/microposts_controller.rb
+    :cursor_offset: 145
+    :timestamp: 2012-01-24 15:18:15.467000 -08:00
+  - :path: app/controllers/users_controller.rb
+    :cursor_offset: 228
+    :timestamp: 2012-01-24 12:58:54.894000 -08:00
+  - :path: config/routes.rb
+    :cursor_offset: 0
+    :timestamp: 2012-01-24 15:08:19.347000 -08:00
+  - :path: app/models/user.rb
+    :cursor_offset: 59
+    :timestamp: 2012-01-24 15:25:06.017000 -08:00
+  - :path: app/models/micropost.rb
+    :cursor_offset: 53
+    :timestamp: 2012-01-24 15:25:59.576000 -08:00
 files_to_retain: 0

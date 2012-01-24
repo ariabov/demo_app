@@ -1,6 +1,4 @@
 --- 
 open_files: 
-  - config/routes.rb
-  - app/controllers/users_controller.rb
   - app/models/user.rb
-  - app/views/users/index.html.erb
+  - app/models/micropost.rb

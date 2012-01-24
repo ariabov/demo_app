@@ -4,4 +4,7 @@
 
 require File.expand_path('../config/application', __FILE__)
 
+# added to solve rake issue
+require 'rake/dsl_definition'
+
 DemoApp::Application.load_tasks

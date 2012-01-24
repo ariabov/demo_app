@@ -1,0 +1,15 @@
+--- 
+cursor_positions: 
+  - :path: config/routes.rb
+    :cursor_offset: 55
+    :timestamp: 2012-01-24 12:58:54.828000 -08:00
+  - :path: app/controllers/users_controller.rb
+    :cursor_offset: 228
+    :timestamp: 2012-01-24 12:58:54.894000 -08:00
+  - :path: app/models/user.rb
+    :cursor_offset: 0
+    :timestamp: 2012-01-24 12:58:54.522000 -08:00
+  - :path: app/views/users/index.html.erb
+    :cursor_offset: 0
+    :timestamp: 2012-01-24 12:58:55.153000 -08:00
+files_to_retain: 0
